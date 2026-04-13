@@ -9,7 +9,7 @@
   "scripts": {
     "npm-link": "npm link & ctrlj",
     "npm-unlink": "npm unlink",
-    "git-opushforce": "git opushforce & ctrlj"
+    "git-opushforce": "git opushforce & ctrlj --ms=3000"
   },
   "keywords": [
     "vscode",
